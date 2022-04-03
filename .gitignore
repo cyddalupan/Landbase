@@ -1,0 +1,15 @@
+/_archive
+/app/cache
+/app/logs/*
+/page/vendor
+/page/node_modules
+/page/.env
+/files/applicant/*
+/files/archive/*
+/app/logs
+*/.DS_Store
+*.DS_Store
+.DS_Store
+*error_log
+error_log
+composer.phar

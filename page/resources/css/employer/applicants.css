@@ -1,0 +1,20 @@
+.cyd_each_document {
+  text-align: left;
+  margin-bottom: 23px;
+  float: left;
+   width: 218px;
+   cursor: pointer;
+}
+.cyd_each_document img {
+   width: 181px;
+}
+.cyd_each_document h1 {
+   font-size: 13px;
+  font-weight: normal;
+}
+.cyd_output_files .cyd_back {
+	cursor: pointer;
+  color: red;
+  font-size: 17px;
+  font-weight: bold;
+}
